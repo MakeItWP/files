@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="https://raw.githubusercontent.com/MakeItWP/Favicons/master/mstile-150x150.png"/>
+            <square150x150logo src="https://raw.githubusercontent.com/MakeItWP/Favicons/master/mstile-150x150.png?v=47MvGBErdy"/>
             <TileColor>#2ecc71</TileColor>
         </tile>
     </msapplication>
